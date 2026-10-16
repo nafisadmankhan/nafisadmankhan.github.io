@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nafisadmankhan.github.io/nafisadmankhan/sitemap.xml
+Sitemap: https://nafisadmankhan.github.io//sitemap.xml
