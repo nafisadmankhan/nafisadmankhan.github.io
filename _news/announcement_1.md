@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-09-19 16:00:00+0600
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Received an overall IELTS band score of 8.0 (Listening 8.0, Reading 9.0, Writing 7.5, Speaking 7.5).
