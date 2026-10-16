@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received an overall IELTS band score of 8.0 (Listening 8.0, Reading 9.0, Writing 7.5, Speaking 7.5).
+Received an overall IELTS band score of 8.0 (Listening 8.0, Reading 9.0, Writing 7.5, Speaking 7.5)
